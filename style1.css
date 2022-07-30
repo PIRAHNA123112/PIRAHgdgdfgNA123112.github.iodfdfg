@@ -1,0 +1,34 @@
+body {
+margin: 0px;
+}
+body {
+  background-color: #111111;
+  color: #202020;
+  font-family: sans-serif;
+}
+.bg {
+      background-color: #black;
+      height: 70px;
+  }
+.li1 {
+      left: -15px;
+      display: inline-block;
+      padding: 15px;
+      color: #ffffff;
+      font-size: 25px;
+      position: relative;
+      top: 25px;
+      bottom: 10px;
+}
+.АБОБА {
+  left: 200px;
+  margin: 500px;
+  background-color: #white;
+  height: -300px;
+  width: x;
+  border-radius: px;
+  color: white;
+  font-size: 35px;
+  position: absolute;
+  top: -450px;
+}

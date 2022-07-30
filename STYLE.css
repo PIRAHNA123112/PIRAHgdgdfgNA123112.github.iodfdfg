@@ -1,0 +1,91 @@
+body {
+  margin: 0px;
+}
+body {
+  background-color: #111111;
+  color: #202020;
+  font-family: sans-serif;
+}
+.bg {
+    background-color: #black;
+    height: 70px;
+}
+.li1 {
+    left: -15px;
+    display: inline-block;
+    padding: 15px;
+    color: #ffffff;
+    font-size: 25px;
+    position: relative;
+    top: 4px;
+    bottom: 10px;
+}
+.ABOBA {
+      padding: px;
+      color: black;
+      font-size: px;
+      position: relative;
+      top: 5px;
+}
+.stroke1 {
+      color: #FFFFFF;
+}
+.title_block {
+      margin: auto;
+      background-color: #111111;
+      height: 50px;
+      width: 580px;
+      border-radius: 5px;
+      color: white;
+}
+.bg:hover {
+background: #4169E1;
+transition: all 0.17s ease-out;
+}
+.SKIN {
+    position: absolute;
+    top: 40px;
+    left: 60px;
+    margin: 100px;
+}
+.SKIN1 {
+    left: 60px;
+    margin: 500px;
+    height: -700px;
+    width: -15px;
+    position: absolute;
+}
+.title_block1 {
+      left: 200px;
+      margin: 500px;
+      background-color: #111111;
+      height: -250px;
+      width: x;
+      border-radius: px;
+      color: white;
+      font-size: 15px;
+      position: absolute;
+      top: -350px;
+}
+.NAME {
+  margin: 90px;
+  width: 150px;
+  height: -8400px;
+  left: 1555px;
+  bottom: 2px;
+  position: absolute;
+  font-size: -400px;
+  top: -90px;
+  margin: center;
+}
+.NAME1 {
+  margin: 90px;
+  width: 90px;
+  height: px;
+  left: 1590px;
+  bottom: 2px;
+  position: absolute;
+  font-size: -450px;
+  top: -60px;
+  margin: center;
+}
